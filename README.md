@@ -1,6 +1,7 @@
 # P210-JS_Objects_Events_QuerySelector
 
 Dərsdə baxılan linklər:
+
     - https://www.w3schools.com/js/js_objects.asp
     - http://javascript.info/constructor-new
     - https://www.w3schools.com/js/js_object_constructors.asp
